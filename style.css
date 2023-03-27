@@ -5,7 +5,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/heroImage.jpeg');
+    background: url('https://tinyurl.com/ynhz4hec');
     background-size:cover;
     position:relative;
 }
@@ -52,10 +52,10 @@
     text-align: center;
 }
 .card:hover .servicesIcon {
-    color: #C2E8CE;
+    color: #F6AD7B;
 }
 .servicesText:hover {
-    border: 1px solid #C2E8CE;
+    border: 1px solid #F6AD7B;
 }
 
 /* social media icons styling */
@@ -64,13 +64,13 @@
     cursor: pointer;
 }
 .fa-google:hover,.fa-github:hover,.fa-twitter:hover,.fa-linkedin:hover {
-    color: #F2EEE5;
+    color: #F6AD7B;
 }
 .fab {
     color: #000000;
 }
 /* footer styling */
 #footer {
-    background-color: #C2E8CE;
+    background-color: #F0E3CA;
     text-align: center;
 }
